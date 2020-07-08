@@ -12,6 +12,10 @@ header{
     transition: .3s;
 
 }
+.nav-link{
+    color: black;
+}
+
 .sign-in:hover,.sign-in li a{
      background-color: #111;
     
@@ -43,5 +47,12 @@ header{
 .card{
     border: none;
     border-radius: 10px;
-    margin-top: 20px;
+    
+}
+ 
+ .col-sm-4 p{
+    line-height: 5px ;
+     font-size: 14px;
+     color: #AEADB2;
+      
 }
