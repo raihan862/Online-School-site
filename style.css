@@ -1,0 +1,47 @@
+header{
+    background-color:#F0FFF0 ;
+}
+.container{
+    margin-bottom:50px;
+}
+.sign-in{
+    background-color: #21B573;
+   
+    padding: 0px 10px;
+    border-radius: 25px;
+    transition: .3s;
+
+}
+.sign-in:hover,.sign-in li a{
+     background-color: #111;
+    
+}
+.customize-btn{
+    background-color: #21B573;
+    color: #f1f1f1;
+    border-radius: 25px;
+    padding: 7px 25px;
+}
+.card1{
+    background-color: #F8FFFB;
+    margin-top: 20px;
+    border: none;
+}
+.card1:hover{
+    background-color: white;
+    box-shadow: 6px 6px 15px rgb(0,0,0,.1),
+                 -6px -6px 15px rgb(0,0,0,.1);
+}
+.c-image{
+    width: 120px;
+    display: block;
+    margin: auto;
+    padding: 20px;
+    height: 150px;
+     
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    margin-top: 20px;
+}
